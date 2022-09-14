@@ -1,3 +1,3 @@
 # Burn
 
-## Anti-Foransic Tool 
+## Anti-Forensic Tool 
