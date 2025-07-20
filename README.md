@@ -1,10 +1,10 @@
 # 🔥 Burn - Anti-Forensics Tool
 
-
+![burn](https://socialify.git.ci/omertasci11/burn/image?font=Inter&language=1&name=1&owner=1&pattern=Transparent&theme=Auto)
 
 Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred log files, manipulate timestamps, clear shell history, and more—either selectively or in bulk.
 
-![burn](https://socialify.git.ci/omertasci11/burn/image?font=Inter&language=1&name=1&owner=1&theme=Dark)
+
 ---
 
 ## 📋 Table of Contents
