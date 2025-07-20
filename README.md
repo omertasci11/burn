@@ -40,7 +40,8 @@ Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred l
 
 ### Demo Video
 
-You can download and watch the demo video from the link below:
 
-(./burn.mp4)
+https://github.com/user-attachments/assets/ba62aa86-1456-4926-8dc2-02b649a5257b
+
+
 
