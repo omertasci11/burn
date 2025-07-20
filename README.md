@@ -37,3 +37,10 @@ Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred l
 
    ```bash
    chmod +x burn.sh
+
+### Demo Video
+
+You can download and watch the demo video from the link below:
+
+[▶️ Click to download and watch burn.mp4](./burn.mp4)
+
