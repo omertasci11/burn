@@ -1,11 +1,4 @@
-# 🔥 Burn - Anti-Forensics Tool
-            \||/
-            |  @___oo
-  /\  /\   / (__,,,,|                   (        )   
- ) /^\) ^\/ _)               (          )\ )  ( /(   
- )   /^\/   _)             ( )\     (  (()/(  )\())  
- )   _ /  / _)             )((_)    )\  /(_))((_)\   
-
+## 🔥 Burn - Anti-Forensics Tool
 
 ![burn](https://socialify.git.ci/omertasci11/burn/image?font=Inter&language=1&name=1&owner=1&pattern=Transparent&theme=Auto)
 
