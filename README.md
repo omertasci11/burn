@@ -1,11 +1,14 @@
-# Burn
-
-## Anti-Forensic Tool 
+# 🔥 Burn - Anti-Forensics Tool
 
 
 
 Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred log files, manipulate timestamps, clear shell history, and more—either selectively or in bulk.
 
+
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![bash](https://img.shields.io/badge/Made%20With-Bash-blue?style=flat-square)
+
+---
 ---
 
 ## 📋 Table of Contents
