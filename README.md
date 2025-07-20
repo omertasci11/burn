@@ -1,5 +1,5 @@
 <div align="center">
-#🔥 Burn - Anti-Forensics Tool
+# 🔥 Burn - Anti-Forensics Tool
 </div>
 
 ![burn](https://socialify.git.ci/omertasci11/burn/image?font=Inter&language=1&name=1&owner=1&pattern=Transparent&theme=Auto)
