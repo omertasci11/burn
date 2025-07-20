@@ -12,16 +12,6 @@ Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred l
 
 - [Features](#-features)  
 - [Installation](#-installation)  
-- [Usage](#-usage)  
-  - [Help](#help)  
-  - [Log Deletion](#log-deletion)  
-  - [Timestamp Manipulation](#timestamp-manipulation)  
-  - [History Clearing](#history-clearing)  
-  - [All-in-One Termination](#all-in-one-termination)  
-  - [Background Mode](#background-mode)  
-  - [Diff Comparison](#diff-comparison)  
-- [Future Improvements](#-future-improvements)  
-- [License](#-license)  
 
 ---
 
