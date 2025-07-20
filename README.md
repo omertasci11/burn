@@ -11,7 +11,7 @@ Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred l
 
 - [Features](#-features)  
 - [Installation](#-installation)  
-
+- [Usage](#-usage)  
 ---
 
 ## 🔒 Features
@@ -38,7 +38,7 @@ Welcome to **Anti‑Forensic tool Burn**! This script helps you securely shred l
    ```bash
    chmod +x burn.sh
 
-### Demo Video
+## 💻 Usage
 
 
 https://github.com/user-attachments/assets/ba62aa86-1456-4926-8dc2-02b649a5257b
